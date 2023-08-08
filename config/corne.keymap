@@ -12,7 +12,7 @@
     combos {
         compatible = "zmk,combos";
 
-        BKSP+Apostrophe_DEL {
+        BKSPApostrophe-DEL {
             bindings = <&kp DELETE>;
             key-positions = <11 23>;
         };
