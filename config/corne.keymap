@@ -57,7 +57,7 @@
             bindings = <
 &mt LSHIFT TAB  &kp EXCL  &kp AT    &kp UP_ARROW  &kp DLLR   &kp PRCNT    &kp CARET  &kp AMPS   &kp ASTERISK  &kp LPAR  &kp RPAR  &kp DELETE
 &sk LCTRL       &kp HASH  &kp LEFT  &kp DOWN      &kp RIGHT  &kp PG_UP    &kp MINUS  &kp EQUAL  &kp LBKT      &kp RBKT  &kp PIPE  &kp GRAVE
-&sk LALT        &trans    &kp HOME  &kp ENTER     &kp END    &kp PG_DN    &kp UNDER  &kp PLUS   &kp LBRC      &kp RBRC  &kp BSLH  &kp TILDE
+&sk LALT        &trans    &kp HOME  &trans        &kp END    &kp PG_DN    &kp UNDER  &kp PLUS   &kp LBRC      &kp RBRC  &kp BSLH  &kp TILDE
                                     &sk LGUI      &trans     &kp SPACE    &sk RSHFT  &trans     &kp RET
             >;
         };
